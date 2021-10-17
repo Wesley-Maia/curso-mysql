@@ -6,4 +6,5 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] #01: _Curso de Banco de Dados MySQL- # O que é um Banco de Dados?_
 - [x] #02: _Curso de Banco de Dados MySQL- # Instalando o MySQL com WAMP/XAMPP_
 - [x] #03: _Curso de Banco de Dados MySQL- # Criando o primeiro Banco de Dados_
-- [ ] #04: _Curso de Banco de Dados MySQL- # Melhorando a Estrutura do Banco de Dados_
+- [x] #04: _Curso de Banco de Dados MySQL- # Melhorando a Estrutura do Banco de Dados_
+- [ ] #05: _Curso de Banco de Dados MySQL- # Inserindo Dados na Tabela(INSERT INTO)_
