@@ -7,4 +7,6 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] #02: _Curso de Banco de Dados MySQL- # Instalando o MySQL com WAMP/XAMPP_
 - [x] #03: _Curso de Banco de Dados MySQL- # Criando o primeiro Banco de Dados_
 - [x] #04: _Curso de Banco de Dados MySQL- # Melhorando a Estrutura do Banco de Dados_
-- [ ] #05: _Curso de Banco de Dados MySQL- # Inserindo Dados na Tabela(INSERT INTO)_
+- [x] #05: _Curso de Banco de Dados MySQL- # Inserindo Dados na Tabela(INSERT INTO)_
+- [ ] #06: _Curso de Banco de Dados MySQL- # Alterando a Estrutura da Tabela (ALTER TABLE  e DROP TABLE)_
+- [ ] #07: _Curso de Banco de Dados MySQL- # Manipulando Linhas (UPDATE, DELETE e TRUNCATE)_
